@@ -1,4 +1,4 @@
-# ML-RL
+
 This repository contains codes written in Python and R for implementing machine learning, deep learning and reinforcement learning algorithms.
 
 Python packages used:
