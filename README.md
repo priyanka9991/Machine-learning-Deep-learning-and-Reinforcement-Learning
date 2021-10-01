@@ -37,3 +37,15 @@ Unsupervised Learning -
 5) Isomap
 6) Sammon mapping
 
+**Deep Learning**
+
+1) Connvolutional neural networks (CNN)
+2) Neural networks
+3) Transfer learning (VGG16)
+
+**Reinforcement learning**
+
+1) Value iteration
+2) Policy iteration
+3) Q-learning
+4) Deep Q 
