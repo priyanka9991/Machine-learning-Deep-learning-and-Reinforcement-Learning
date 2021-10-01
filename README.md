@@ -8,4 +8,5 @@ Packages used:
 4) Matplotlib
 5) Sklearn
 6) Keras
-7) 
+7) PyTorch
+8) OpenAI Gym
